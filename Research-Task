@@ -4,7 +4,7 @@ Devops is a set of practices , principles and tools to increase an orginization 
 software development and Operations teams. Devops aims to streamline the software development life cycle , making it faster and more efficient. Key components of Devops are:
 
 1. Collaboration and Communication : Devops involves the collaboration between software development and operations team. they aims to streamline the  SDLC life cycle
-D
+
 2. Automation : Devops permotes automation in deployment , testing , configuraion management and monitoring.
 
 3. Contineous Intigration and Delivery : CI involves frequently integrating code changes into a shared repository to detect bugs and errors early. CD automates the release process, allowing code to be deployed to production quickly and reliably.
